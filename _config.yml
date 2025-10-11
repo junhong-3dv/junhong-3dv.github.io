@@ -27,7 +27,7 @@ author:
   name             : "Junhong Min"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Republic of Korea"
   employer         : "Samsung Electronics"
   uri              : # URL
   email            : "junhong.min.85@gmail.com, junhong1.min@samsung.com" 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.co.kr/citations?user=Rc3ybdYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
