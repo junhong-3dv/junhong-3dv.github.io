@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[//]: # ()
+[//]: # ({% include base_path %})
 
 ## Summary
 Principal Engineer at Samsung Electronics with nearly a decade of experience endowing robots with sophisticated visual intelligence. I lead the 3D vision AI for industrial automation, specializing in core technologies like stereo matching and 6-DoF object pose estimation. My work bridges academic research excellence, demonstrated by multiple top-tier publications, with the creation of robust, scalable automation solutions for real-world manufacturing environments.
