@@ -15,4 +15,4 @@ While my current work is focused on manufacturing efficiency, I view it as a fou
 ---
 
 ## Latest News
-Oct 2025: Our paper, "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation" was accepted to the International Conference on on Computer Vision (ICCV) 2025!
+Oct 2025: Our paper, "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation" was accepted to the International Conference on Computer Vision (ICCV) 2025!
