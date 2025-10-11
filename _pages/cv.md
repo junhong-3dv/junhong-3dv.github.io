@@ -56,15 +56,30 @@ Skills
 
 ---
 
-Publications
+Publications (selected)
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+[//]: # (  <ul>{% for post in site.publications reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
+
+[//]: # (  )
+* **Min, J.**, Y. Jeon, J. Kim and M. Choi, "S2M²: Scalable Stereo Matching Model for Reliable Depth Estimation." *International Conference on Computer Vision (ICCV)*, 2025.
+* **Min, J.** and Y. Jeon, "Confidence Aware Stereo Matching for Realistic Cluttered Scenario" *IEEE International Conference on Image Processing (ICIP)*, 2024.
+* Kim, B. and **Min, J.**, "Sim-to-real Object Pose Estimation for Random Bin Picking." *IEEE International Conference on Robotics and Automation (ICRA)*, 2024.
+* Choi, Y., et al., "Hierarchical 6-DoF Grasping with Approaching Direction Selection.", *IEEE International Conference on Robotics and Automation (ICRA)*, 2020.
+* **Min, J.**, Jin, K. and Ye, J., "Grid-free localization algorithm using low rank Hankel matrix for super-resolution microscopy." *IEEE Transactions on Image Processing (TIP)*, 2018.
+* Kang, E., **Min, J.**, and Ye, J., "A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction." *Journal of Medical Physics*, 2017.
+* Sage, D., et al., "Quantitative evaluation of software packages for single-molecule localization microscopy", *Nature Methods*, 2015.
+* **Min, J.**, et al., "FALCON: fast and unbiased reconstruction of high-density super-resolution microscopy data." *Scientific Reports*, 2014.
+* **Min, J.**, et al., "Fluorescent microscopy beyond diffraction limits using speckle illumination and joint support recovery.", *Scientific Reports*, 2013.
   
+
 ---
 
-Patents
+Patents (selected)
 ======
 * "ROBOT CONTROL APPARATUS AND METHOD FOR LEARNING TASK SKILL OF THE ROBOT", US11911912
 * "APPARATUS AND METHOD FOR IDENTIFYING AND PICKING OBJECT USING ARTIFICIAL INTELLIGENCE ALGORITHM", US11645778
