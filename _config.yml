@@ -33,7 +33,7 @@ author:
   email            : "junhong.min.85@gmail.com, junhong1.min@samsung.com" 
 
   # Academic websites
-  academia         : "KAIST"
+  academia         : #"KAIST"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.kr/citations?user=Rc3ybdYAAAAJ&hl=en"
   inspire-hep      : # URL
