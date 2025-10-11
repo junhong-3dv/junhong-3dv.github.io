@@ -60,14 +60,6 @@ Skills
 Publications (selected)
 ======
 
-[//]: # (  <ul>{% for post in site.publications reversed %})
-
-[//]: # (    {% include archive-single-cv.html %})
-
-[//]: # (  {% endfor %}</ul>)
-
-[//]: # (  )
-
 * **Min, J.**, Y. Jeon, J. Kim and M. Choi, "S2M²: Scalable Stereo Matching Model for Reliable Depth Estimation." *International Conference on Computer Vision (ICCV)*, 2025.
 * **Min, J.** and Y. Jeon, "Confidence Aware Stereo Matching for Realistic Cluttered Scenario" *IEEE International Conference on Image Processing (ICIP)*, 2024.
 * Kim, B. and **Min, J.**, "Sim-to-real Object Pose Estimation for Random Bin Picking." *IEEE International Conference on Robotics and Automation (ICRA)*, 2024.
