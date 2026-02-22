@@ -15,6 +15,6 @@ While my current work is focused on manufacturing efficiency, I view it as a fou
 ---
 
 ## Latest News
-Feb 2026: Our paper, "DepthFocus: Controllable Depth Estimation for See-Through Scenes" was accepted to The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026!
+Feb 2026: Our paper, "DepthFocus: Controllable Depth Estimation for See-Through Scenes" was accepted to The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026!
 
 Oct 2025: Our paper, "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation" was accepted to the International Conference on Computer Vision (ICCV) 2025!
