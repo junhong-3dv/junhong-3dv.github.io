@@ -11,7 +11,7 @@ redirect_from:
 [//]: # ({% include base_path %})
 
 ## Summary
-Principal Engineer at Samsung Electronics with nearly a decade of experience endowing robots with sophisticated visual intelligence. I lead the 3D vision AI for industrial automation, specializing in core technologies like stereo matching and 6-DoF object pose estimation. My work bridges academic research excellence, demonstrated by multiple top-tier publications, with the creation of robust, scalable automation solutions for real-world manufacturing environments.
+Robotics and perception engineer specializing in 3D vision systems for industrial automation. My work bridges research on stereo matching, controllable depth estimation, and 6-DoF object pose estimation with deployment of robust robotic systems in manufacturing environments.
 
 ---
 
@@ -25,26 +25,31 @@ Education
 
 Work experience
 ======
-* **Sep 2016 - present: Principal Engineer**
+* **Mar 2024 - present: Principal Engineer**
   * Samsung Electronics
-  * Duties included:
-    * Led the development of a proprietary 3D stereo vision system, unifying all aspects from custom hardware design and data generation to the core AI model implementation.
-    * Served as the project lead for factory automation, successfully developing and deploying numerous robotic applications across Samsung's global manufacturing lines.
+  * Lead development of in-house 3D vision and robotic perception stacks, with emphasis on stereo matching, controllable depth estimation, and object pose estimation.
+  * Established 3D vision systems as core sensing units for internal robotic platforms.
+
+* **Sep 2016 - Feb 2024: Senior Engineer**
+  * Samsung Electronics
+  * Developed 3D vision algorithms and robotic perception systems for industrial automation.
+  * Contributed to prototyping and deployment of box depalletizing and vision-guided automation systems.
 
 ---
 
 Projects
 ======
 * **3D Vision System Development (2022 - present)**
-  * Led the development of a proprietary 3D stereo vision system, culminating in a world-class stereo matching model that achieves state-of-the-art precision.
-  * Pioneering a novel technique for selective depth processing to handle challenging environments with numerous transparent objects.
+  * Developed a scalable stereo matching framework, published as S²M² at ICCV 2025, with strong results across public stereo benchmarks.
+  * Proposed DepthFocus, accepted to CVPR 2026, for controllable depth estimation in see-through scenes with transparent and reflective surfaces.
+  * Designed and optimized stereo camera systems as perception heads for robotic automation platforms.
 
 * **Advanced Perception for Robotics (2020 - 2024)**
-  * Engineered RGB-D based 6-DoF object detection and pose estimation models for robotic manipulation in cluttered environments.
-  * Pioneered the use of large-scale, CAD-based synthetic data to achieve superior model generalization across diverse industrial components.
+  * Developed RGB-D based 6-DoF object detection and pose estimation models for robotic manipulation in cluttered environments.
+  * Used CAD-based synthetic data and sim-to-real transfer to improve generalization across industrial components.
   
 * **Automation Solution Deployment (2018 - 2024)**
-  * Engineered and deployed robust vision-guided automation solutions across Samsung's global manufacturing sites, including Random Bin-Picking, Depalletizing, and high-precision Pick and Place.
+  * Engineered and deployed vision-guided automation solutions, including random bin picking, depalletizing, inspection, and high-precision pick-and-place.
 
 ---
 
@@ -59,8 +64,9 @@ Skills
 
 Publications (selected)
 ======
-* **Min, J.**, Y. Jeon, J. Kim and M. Choi, "S2M²: Scalable Stereo Matching Model for Reliable Depth Estimation." *International Conference on Computer Vision (ICCV)*, 2025.
-* **Min, J.** and Y. Jeon, "Confidence Aware Stereo Matching for Realistic Cluttered Scenario" *IEEE International Conference on Image Processing (ICIP)*, 2024.
+* **Min, J.**, J. Kim, M. Kim, C.-H. Min, Y. Jeon and M. Choi, "DepthFocus: Controllable Depth Estimation for See-Through Scenes." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026.
+* **Min, J.**, Y. Jeon, J. Kim and M. Choi, "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation." *IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025.
+* **Min, J.** and Y. Jeon, "Confidence Aware Stereo Matching for Realistic Cluttered Scenario." *IEEE International Conference on Image Processing (ICIP)*, 2024.
 * Kim, B. and **Min, J.**, "Sim-to-real Object Pose Estimation for Random Bin Picking." *IEEE International Conference on Robotics and Automation (ICRA)*, 2024.
 * Choi, Y., et al., "Hierarchical 6-DoF Grasping with Approaching Direction Selection.", *IEEE International Conference on Robotics and Automation (ICRA)*, 2020.
 * **Min, J.**, Jin, K. and Ye, J., "Grid-free localization algorithm using low rank Hankel matrix for super-resolution microscopy." *IEEE Transactions on Image Processing (TIP)*, 2018.
@@ -72,15 +78,25 @@ Publications (selected)
 
 ---
 
-Patents (selected)
+Patents
 ======
-* "ROBOT CONTROL APPARATUS AND METHOD FOR LEARNING TASK SKILL OF THE ROBOT", US11911912
-* "APPARATUS AND METHOD FOR IDENTIFYING AND PICKING OBJECT USING ARTIFICIAL INTELLIGENCE ALGORITHM", US11645778
+* "Electronic device, stereo image restoration method using the same, and computer-readable recording medium", KR102923256B1, 2026.
+* "Method for stimulating skin and electronic device supporting the same", KR102693265B1, 2024.
+* "Mobile robot and method of aligning robot arm thereof", KR102658278B1, 2024.
+* "Robot control apparatus and method for learning task skill of the robot", US11911912B2, 2024.
+* "Robot device and method for learning task skill of the robot", KR102619004B1, 2023.
+* "Apparatus and method for identifying and picking object using artificial intelligence algorithm", US11645778B2, 2023.
+* "Apparatus and method for identifying object", KR102565444B1, 2023.
+* "Method and apparatus for processing image based on neural network", KR101961177B1, 2019.
+* "Stabilization method and equipment of microscopy focal plane", KR101394799B1, 2014.
+
+[View patent links](/patents/)
 
 ---
 
 Awards & Leadership
 ======
+* 1st place, CVPR NTIRE Challenge stereo track for HR depth from specular and transparent surfaces, 2026
 * 2nd place, the Samsung Creative Idea Competition, 2018
 * 2nd place (out of 103), AAPM Low Dose CT Grand Challenge, 2016
 * Organizer, 2nd Localization Microscopy Challenge in SMLMS, 2016
