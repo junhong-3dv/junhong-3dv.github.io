@@ -13,6 +13,8 @@ redirect_from:
 ## Summary
 Robotics and perception engineer specializing in 3D vision systems for industrial automation. My work bridges research on stereo matching, controllable depth estimation, and 6-DoF object pose estimation with deployment of robust robotic systems in manufacturing environments.
 
+[Full publication list](/publications/) / [Patent list](/patents/)
+
 ---
 
 Education
@@ -59,38 +61,6 @@ Skills
 * **ML/CV Libraries:** PyTorch, TensorFlow, OpenCV, Open3D, Scikit-learn, Pandas
 * **Simulation:** Blender, OpenAI Gym, Mujoco, Pybullet
 * **Domains:** 3D Vision, Robot Manipulation, Factory Automation, Medical Imaging
-
----
-
-Publications (selected)
-======
-* **Min, J.**, J. Kim, M. Kim, C.-H. Min, Y. Jeon and M. Choi, "DepthFocus: Controllable Depth Estimation for See-Through Scenes." *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026.
-* **Min, J.**, Y. Jeon, J. Kim and M. Choi, "S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation." *IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025.
-* **Min, J.** and Y. Jeon, "Confidence Aware Stereo Matching for Realistic Cluttered Scenario." *IEEE International Conference on Image Processing (ICIP)*, 2024.
-* Kim, B. and **Min, J.**, "Sim-to-real Object Pose Estimation for Random Bin Picking." *IEEE International Conference on Robotics and Automation (ICRA)*, 2024.
-* Choi, Y., et al., "Hierarchical 6-DoF Grasping with Approaching Direction Selection.", *IEEE International Conference on Robotics and Automation (ICRA)*, 2020.
-* **Min, J.**, Jin, K. and Ye, J., "Grid-free localization algorithm using low rank Hankel matrix for super-resolution microscopy." *IEEE Transactions on Image Processing (TIP)*, 2018.
-* Kang, E., **Min, J.**, and Ye, J., "A deep convolutional neural network using directional wavelets for low-dose X-ray CT reconstruction." *Journal of Medical Physics*, 2017.
-* Sage, D., et al., "Quantitative evaluation of software packages for single-molecule localization microscopy", *Nature Methods*, 2015.
-* **Min, J.**, et al., "FALCON: fast and unbiased reconstruction of high-density super-resolution microscopy data." *Scientific Reports*, 2014.
-* **Min, J.**, et al., "Fluorescent microscopy beyond diffraction limits using speckle illumination and joint support recovery.", *Scientific Reports*, 2013.
-  
-
----
-
-Patents
-======
-* "Electronic device, stereo image restoration method using the same, and computer-readable recording medium", KR102923256B1, 2026.
-* "Method for stimulating skin and electronic device supporting the same", KR102693265B1, 2024.
-* "Mobile robot and method of aligning robot arm thereof", KR102658278B1, 2024.
-* "Robot control apparatus and method for learning task skill of the robot", US11911912B2, 2024.
-* "Robot device and method for learning task skill of the robot", KR102619004B1, 2023.
-* "Apparatus and method for identifying and picking object using artificial intelligence algorithm", US11645778B2, 2023.
-* "Apparatus and method for identifying object", KR102565444B1, 2023.
-* "Method and apparatus for processing image based on neural network", KR101961177B1, 2019.
-* "Stabilization method and equipment of microscopy focal plane", KR101394799B1, 2014.
-
-[View patent links](/patents/)
 
 ---
 
