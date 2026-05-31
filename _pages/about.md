@@ -15,7 +15,7 @@ Across these projects, my interest is in perception methods that remain useful o
 ---
 
 ## Featured Publications
-* **Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation**, Pattern Recognition 2026. [Project](/projects/rgbd-semantic-segmentation-survey/)
+* **Comprehensive Survey on Advances and Challenges in RGB-D Semantic Segmentation**, Pattern Recognition 2026. [GitHub](https://github.com/AIM-SKKU/RGBD-SS-survey)
 * **DepthFocus: Controllable Depth Estimation for See-Through Scenes**, CVPR 2026. [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Min_DepthFocus_Controllable_Depth_Estimation_for_See-Through_Scenes_CVPR_2026_paper.pdf) / [Project](https://junhong-3dv.github.io/depthfocus-project/)
 * **S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation**, ICCV 2025. [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Min_S2M2_Scalable_Stereo_Matching_Model_for_Reliable_Depth_Estimation_ICCV_2025_paper.pdf) / [Project](https://junhong-3dv.github.io/s2m2-project/) / [Code](https://github.com/junhong-3dv/s2m2)
 * **Confidence Aware Stereo Matching for Realistic Cluttered Scenario**, ICIP 2024. [Paper](https://doi.org/10.1109/ICIP51287.2024.10647686)
