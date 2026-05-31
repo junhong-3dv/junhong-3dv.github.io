@@ -12,7 +12,7 @@ suppurl: "https://openaccess.thecvf.com/content/CVPR2026/supplemental/Min_DepthF
 dataseturl: "https://huggingface.co/datasets/minimok/depthfocus"
 arxivurl: "https://arxiv.org/abs/2511.16993"
 header:
-  teaser: publications/depthfocus-thumbnail.png
+  teaser: publications/2026-cvpr-depthfocus-thumbnail.png
 citation: "Junhong Min, Jimin Kim, Minwook Kim, Cheol-Hui Min, Youngpil Jeon, and Minyong Choi. &quot;DepthFocus: Controllable Depth Estimation for See-Through Scenes.&quot; <i>CVPR</i>, 2026."
 ---
 DepthFocus formulates stereo depth estimation as a controllable perception problem, enabling the model to focus on intended depth layers in see-through scenes.
