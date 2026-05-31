@@ -9,7 +9,7 @@ venue: "Medical Physics"
 paperurl: "https://doi.org/10.1002/mp.12344"
 arxivurl: "https://arxiv.org/abs/1610.09736"
 header:
-  teaser: publications/2017-medical-physics-low-dose-ct-thumbnail.svg
+  teaser: publications/2017-medical-physics-low-dose-ct-figure13-thumbnail.jpg
 citation: "Eunhee Kang, Junhong Min, and Jong Chul Ye. &quot;A Deep Convolutional Neural Network Using Directional Wavelets for Low-Dose X-Ray CT Reconstruction.&quot; <i>Medical Physics</i>, 2017."
 ---
 This work applies directional wavelet-domain deep learning to low-dose CT denoising and reconstruction.

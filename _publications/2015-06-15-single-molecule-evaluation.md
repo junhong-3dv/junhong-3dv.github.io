@@ -8,7 +8,7 @@ date: 2015-06-15
 venue: "Nature Methods"
 paperurl: "https://doi.org/10.1038/nmeth.3442"
 header:
-  teaser: publications/2015-nature-methods-smlm-evaluation-thumbnail.svg
+  teaser: publications/2015-nature-methods-smlm-evaluation-figure1-thumbnail.jpg
 citation: "Daniel Sage, Hagai Kirshner, Thomas Pengo, Nico Stuurman, Junhong Min, Suliana Manley, and Michael Unser. &quot;Quantitative Evaluation of Software Packages for Single-Molecule Localization Microscopy.&quot; <i>Nature Methods</i>, 2015."
 ---
 This collaborative benchmark evaluates localization microscopy software packages under controlled conditions.
