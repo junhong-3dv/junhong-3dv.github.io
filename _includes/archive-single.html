@@ -71,7 +71,7 @@
         <p class="publication__links">
           {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
           {% if post.projecturl %}<a href="{{ post.projecturl }}">Project</a>{% endif %}
-          {% if post.codeurl %}<a href="{{ post.codeurl }}">Code</a>{% endif %}
+          {% if post.codeurl %}<a href="{{ post.codeurl }}">{% if post.codeurl contains 'github.com' %}GitHub{% else %}Code{% endif %}</a>{% endif %}
           {% if post.suppurl %}<a href="{{ post.suppurl }}">Supplement</a>{% endif %}
           {% if post.dataseturl %}<a href="{{ post.dataseturl }}">Dataset</a>{% endif %}
           {% if post.arxivurl %}<a href="{{ post.arxivurl }}">arXiv</a>{% endif %}
