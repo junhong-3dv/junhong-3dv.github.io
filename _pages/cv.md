@@ -53,6 +53,12 @@ Projects
 * **Automation Solution Deployment (2018 - 2024)**
   * Engineered and deployed vision-guided automation solutions, including random bin picking, depalletizing, inspection, and high-precision pick-and-place.
 
+* **Robot Learning & Manipulation (2018 - 2020)**
+  * Developed a 6-DoF grasp planning prototype using the Cross Entropy Method (CEM) to extend 4-DoF grasping toward cluttered scenes without relying on labeled grasp datasets.
+  * Connected grasp planning with an active learning-based picking planner to improve task success rates in early industrial manipulation prototypes.
+  * Implemented model-free (DDPG) and model-based (Guided Policy Search) policy learning for peg-in-hole motion generation, with a focus on contact-rich manipulation in industrial settings.
+  * This early robot learning work provided useful context for later perception-driven manipulation and automation projects.
+
 ---
 
 Skills
@@ -60,7 +66,7 @@ Skills
 * **Programming:** Python, C, C++, MATLAB
 * **ML/CV Libraries:** PyTorch, TensorFlow, OpenCV, Open3D, Scikit-learn, Pandas
 * **Simulation:** Blender, OpenAI Gym, Mujoco, Pybullet
-* **Domains:** 3D Vision, Robot Manipulation, Factory Automation, Medical Imaging
+* **Domains:** 3D Vision, Robot Manipulation, Robot Learning, Factory Automation, Medical Imaging
 
 ---
 
