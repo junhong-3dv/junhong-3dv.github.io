@@ -5,11 +5,12 @@ permalink: /patents/
 author_profile: true
 ---
 
-The list below includes registered Korean and international patents from my CV and application records.
+The list below includes Korean and international patents/applications from my CV and application records.
 
 | Year | Region | Publication / Registration | Title | Link |
 | --- | --- | --- | --- | --- |
 | 2026 | KR | KR102923256B1 | Electronic device, stereo image restoration method using the same, and computer-readable recording medium | [Patent](https://patents.google.com/patent/KR102923256B1/ko) |
+| 2025 | WO | WO2025154999A1 | Electronic device for supporting image segmentation | [Patent](https://patents.google.com/patent/WO2025154999A1/en) |
 | 2024 | KR | KR102693265B1 | Method for stimulating skin and electronic device supporting the same | [Patent](https://patents.google.com/patent/KR102693265B1) |
 | 2024 | KR | KR102658278B1 | Mobile robot and method of aligning robot arm thereof | [Patent](https://patents.google.com/patent/KR102658278B1/ko) |
 | 2024 | US | US11911912B2 | Robot control apparatus and method for learning task skill of the robot | [Patent](https://patents.google.com/patent/US11911912B2/en) |
