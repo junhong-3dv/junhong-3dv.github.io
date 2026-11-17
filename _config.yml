@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Junhong Min / Robot and 3D Perception Engineer"
+title                    : "Junhong Min / Staff Research Scientist"
 title_separator          : "-"
 name                     : &name "Junhong Min"
-description              : "Junhong Min's research portfolio in robotics, 3D vision, and computational imaging"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Junhong Min, Staff Research Scientist at Google, Intrinsic, working on physical intelligence and 3D vision."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://junhong-3dv.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Junhong Min"
   pronouns         : # example: "she/her"  
-  bio              : "Principal Engineer at Samsung Electronics"
-  location         : "Republic of Korea"
-  employer         : "Samsung Electronics"
+  bio              : "Staff Research Scientist at Google, Intrinsic"
+  location         : "Mountain View, California"
+  employer         : "Google, Intrinsic"
   uri              : # URL
-  email            : "junhong.min.85@gmail.com, junhong1.min@samsung.com" 
+  email            : "junhongmin@google.com"
 
   # Academic websites
   academia         : #"KAIST"
@@ -87,6 +87,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
