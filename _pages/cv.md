@@ -30,7 +30,7 @@ Education
 Work experience
 ======
 * **Nov 2026 - present: Staff Research Scientist**
-  * Google, Intrinsic ? Mountain View, California
+  * Google, Intrinsic — Mountain View, California
   * Research in physical intelligence and 3D vision for robotics.
 
 * **Jul 2026 - Nov 2026: Senior Research Scientist**
@@ -52,7 +52,7 @@ Work experience
 Projects
 ======
 * **3D Vision System Development (2022 - 2026, Samsung Electronics)**
-  * Developed a scalable stereo matching framework, published as S��M�� at ICCV 2025, with strong results across public stereo benchmarks.
+  * Developed a scalable stereo matching framework, published as S²M² at ICCV 2025, with strong results across public stereo benchmarks.
   * Proposed DepthFocus, published at CVPR 2026, for controllable depth estimation in see-through scenes with transparent and reflective surfaces.
   * Designed and optimized stereo camera systems as perception heads for robotic automation platforms.
 
