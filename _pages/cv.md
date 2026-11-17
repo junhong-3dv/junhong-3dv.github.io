@@ -11,7 +11,9 @@ redirect_from:
 [//]: # ({% include base_path %})
 
 ## Summary
-Robotics and perception engineer specializing in 3D vision systems for industrial automation. My work bridges research on stereo matching, controllable depth estimation, and 6-DoF object pose estimation with deployment of robust robotic systems in manufacturing environments.
+Staff Research Scientist at Google, Intrinsic in Mountain View, California, working on physical intelligence and 3D vision. My research spans stereo matching, controllable depth estimation, and 6-DoF object pose estimation, with experience developing and deploying robotic systems for industrial automation.
+
+Contact: [junhongmin@google.com](mailto:junhongmin@google.com)
 
 [Full publication list](/publications/) / [Patent list](/patents/)
 
@@ -27,9 +29,17 @@ Education
 
 Work experience
 ======
-* **Mar 2024 - present: Principal Engineer**
+* **Nov 2026 - present: Staff Research Scientist**
+  * Google, Intrinsic ? Mountain View, California
+  * Research in physical intelligence and 3D vision for robotics.
+
+* **Jul 2026 - Nov 2026: Senior Research Scientist**
+  * Holiday Robotics
+  * Research on 3D vision and stereo depth estimation for robotics.
+
+* **Mar 2024 - 2026: Principal Engineer**
   * Samsung Electronics
-  * Lead development of in-house 3D vision and robotic perception stacks, with emphasis on stereo matching, controllable depth estimation, and object pose estimation.
+  * Led development of in-house 3D vision and robotic perception stacks, with emphasis on stereo matching, controllable depth estimation, and object pose estimation.
   * Established 3D vision systems as core sensing units for internal robotic platforms.
 
 * **Sep 2016 - Feb 2024: Senior Engineer**
@@ -41,9 +51,9 @@ Work experience
 
 Projects
 ======
-* **3D Vision System Development (2022 - present)**
-  * Developed a scalable stereo matching framework, published as S²M² at ICCV 2025, with strong results across public stereo benchmarks.
-  * Proposed DepthFocus, accepted to CVPR 2026, for controllable depth estimation in see-through scenes with transparent and reflective surfaces.
+* **3D Vision System Development (2022 - 2026, Samsung Electronics)**
+  * Developed a scalable stereo matching framework, published as S��M�� at ICCV 2025, with strong results across public stereo benchmarks.
+  * Proposed DepthFocus, published at CVPR 2026, for controllable depth estimation in see-through scenes with transparent and reflective surfaces.
   * Designed and optimized stereo camera systems as perception heads for robotic automation platforms.
 
 * **Advanced Perception for Robotics (2020 - 2024)**
